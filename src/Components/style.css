@@ -1,0 +1,10 @@
+  thead tr td,tbody tr td{
+    padding: 0;
+    border:1px solid #d4d4d4;
+    font-weight: 500;
+    color: #553a32;
+    font-size: 18px;
+    padding-right: 10px;
+}
+
+ 
